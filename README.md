@@ -1,4 +1,4 @@
-
+![](https://github-readme-stats.vercel.app/api?username=NoeOnDev&show_icons=true&count_private=true)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/no%C3%A9-alejandro-rodr%C3%ADguez-moto-a48431290/)
 
