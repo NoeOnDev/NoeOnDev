@@ -11,7 +11,7 @@ I'm a Full Stack Developer! Here are some insights into my skills and activities
 ### 📈 GitHub Stats:
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=NoeOnDev&show_icons=true&count_private=true&width=150&height=80" width="329" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=NoeOnDev&show_icons=true&count_private=true&width=200&height=80" width="329" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoeOnDev&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact&width=150&height=80" width="250" height="150">
 </div>
 
