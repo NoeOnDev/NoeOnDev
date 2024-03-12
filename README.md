@@ -2,8 +2,6 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/no%C3%A9-alejandro-rodr%C3%ADguez-moto-a48431290/)
 
-[![](https://visitcount.itsvg.in/api?id=NoeOnDev&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!--
 **NoeOnDev/NoeOnDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
