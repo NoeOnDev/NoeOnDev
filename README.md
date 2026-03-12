@@ -6,7 +6,7 @@ I'm a Full Stack Developer! Here are some insights into my skills and activities
 
 ### 🛠 Technologies and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,vscode,python,react,laravel,docker,aws,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,vscode,python,react,laravel,flutter,docker,aws,postgres,mysql)](https://skillicons.dev)
 
 ### 🌐 Socials
 
