@@ -1,15 +1,32 @@
 <div align="center">
 
-### Hi there, I'm NoeOnDev 👋
+# Hi, I'm Noé Alejandro 👋
 
-I'm a Full Stack Developer! Here are some insights into my skills and activities:
+### Full Stack Developer
 
-### 🛠 Technologies and Tools
+I build modern web applications, APIs and SaaS products with a focus on  
+**Laravel, React, TypeScript and PostgreSQL**.
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,vscode,python,react,laravel,flutter,docker,aws,postgres,mysql)](https://skillicons.dev)
+<br>
 
-### 🌐 Socials
+## 🛠 Tech Stack
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/no%C3%A9-alejandro-rodr%C3%ADguez-moto-a48431290/)
+<img src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,vite,postgres,mysql,flutter,docker,git,github,linux,bash,vscode,python&perline=8" />
+
+<br><br>
+
+## 📈 Contribution Activity
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=NoeOnDev&theme=github-compact&hide_border=true&area=true"
+/>
+
+<br><br>
+
+## 🌐 Connect with me
+
+<a href="https://www.linkedin.com/in/no%C3%A9-alejandro-rodr%C3%ADguez-moto-a48431290/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
