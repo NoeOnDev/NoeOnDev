@@ -15,13 +15,6 @@ I build modern web applications, APIs and SaaS products with a focus on
 
 <br><br>
 
-## 📈 Contribution Activity
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=NoeOnDev&theme=github-compact&hide_border=true&area=true"
-/>
-
-<br><br>
 
 ## 🌐 Connect with me
 
